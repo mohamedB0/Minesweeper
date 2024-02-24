@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708782112 source:d:\ensiasd\algo&c\gui_gtk4\s-m game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
